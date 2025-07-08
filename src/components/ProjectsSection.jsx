@@ -22,13 +22,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Expense Tracker",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+      "Expense Tracker with Real Time Updates",
+    image: "/projects/sss.png",
+    tags: ["React", "Node.js", "npm"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/atishree24/expense-tracker",
   },
 ];
 
